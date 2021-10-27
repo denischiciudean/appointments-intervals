@@ -1,0 +1,7 @@
+{
+    "require": {
+        "carbondate/carbon": "^1.33",
+        "symfony/var-dumper": "^5.3",
+        "illuminate/collections": "^8.68"
+    }
+}
